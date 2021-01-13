@@ -7,7 +7,7 @@
 //
 
 #import "BQViewController.h"
-
+#import <BQ_Test.h>
 @interface BQViewController ()
 
 @end
@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    [BQ_Test test];
 }
 
 - (void)didReceiveMemoryWarning
