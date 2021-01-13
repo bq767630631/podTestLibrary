@@ -1,9 +1,9 @@
 {
   "name": "podTestLibrary",
   "version": "0.1.0",
-  "summary": "A short description of podTestLibrary.",
+  "summary": "Just Testing",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/767630631@qq.com/podTestLibrary",
+  "homepage": "https://github.com/bq767630631/podTestLibrary",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "767630631@qq.com": "767630631@qq.com"
   },
   "source": {
-    "git": "https://github.com/767630631@qq.com/podTestLibrary.git",
+    "git": "https://github.com/bq767630631/podTestLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {

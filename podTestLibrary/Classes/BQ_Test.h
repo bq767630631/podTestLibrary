@@ -11,6 +11,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface BQ_Test : NSObject
 + (void)test;
++ (void)test2;
 @end
 
 NS_ASSUME_NONNULL_END

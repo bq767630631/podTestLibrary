@@ -7,12 +7,14 @@
 //
 
 #import "BQAppDelegate.h"
+#import <BQ_Test.h>
 
 @implementation BQAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [BQ_Test test2];
     return YES;
 }
 
